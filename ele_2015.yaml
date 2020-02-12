@@ -1,0 +1,10 @@
+Name: 2015 Elevation, DVRPC of NJ
+Description: This LiDAR data set was gathered in April, 2015, leaf-off, for the purpose of producing high accuracy 3D hydro-flattened DEM with a 1-meter cell size, comprised of 8 contiguous counties located in PA and NJ. The data were developed based on a horizontal projection/datum of UTM Zone 18, NAD83 (2011), meters and vertical datum of NAVD1988 (GEOID12A), meters, and processed to create Classified LAS 1.4 Files formatted to 1500 meter X 1500 meter tiles.
+
+LiDAR was collected in spring of 2015, while no snow was on the ground and rivers were at or below normal levels.
+Contact:  njgin@oit.nj.gov
+ManagedBy:  The New Jersey Office of GIS, NJ Office of Information Technology
+UpdateFrequency: None
+Tags:
+  -
+License:  The State of New Jersey provides the service "as is". The State makes no guarantee or warranty concerning the accuracy of information contained in the data. Also, the State makes no warranty, either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data files and service have been processed successfully on computers at the State, no warranty is made by the State regarding the use of the data or service on any other system, nor does the fact of distribution constitute or imply such a warranty.

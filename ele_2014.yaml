@@ -1,0 +1,8 @@
+Name: 2014 Elevation, Hackensack and Meadowlands NJ
+Description: This data set is high resolution terrain elevation data, the horizontal datum is NAD83 (2011), the vertical datum is NADV88, Geoid 12A, and it is projected in New Jersey State Plane. Units are in US Survey Feet. The LiDAR data were collected between 04/10/14 and 04/11/14, leaf off.
+Contact:  njgin@oit.nj.gov
+ManagedBy:  The New Jersey Office of GIS, NJ Office of Information Technology
+UpdateFrequency: None
+Tags:
+  -
+License:  The State of New Jersey provides the service "as is". The State makes no guarantee or warranty concerning the accuracy of information contained in the data. Also, the State makes no warranty, either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data files and service have been processed successfully on computers at the State, no warranty is made by the State regarding the use of the data or service on any other system, nor does the fact of distribution constitute or imply such a warranty.

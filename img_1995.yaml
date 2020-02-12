@@ -1,0 +1,8 @@
+Name: 1995 Infrared Imagery, NJ
+Description:  This service displays 3 band false color infrared (near IR) imagery acquired under leaf-off conditions in spring of 1995, with some in 1997. It is in State Plane Coordinate System NAD83, U.S. Survey Feet. In most client software, the default spatial reference system of the service will be Geographic Coordinates, WGS84. It is at 1-meter ground resolution, a quarter-quadrangle (3.75-minutes of latitude by 3.75-minutes of longitude) image cast on the UTM projection, NAD83.
+Contact:  njgin@oit.nj.gov
+ManagedBy:  The New Jersey Office of GIS, NJ Office of Information Technology
+UpdateFrequency: None
+Tags:  3.75- x 3.75-minute orthophoto, digital orthophotoquad, 7.5- x 7.5-minute orthophoto, quarter-quadrangle orthophoto,Mid Atlantic,New Jersey
+  -
+License:  The State of New Jersey provides the service "as is". The State makes no guarantee or warranty concerning the accuracy of information contained in the data. Also, the State makes no warranty, either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data files and service have been processed successfully on computers at the State, no warranty is made by the State regarding the use of the data or service on any other system, nor does the fact of distribution constitute or imply such a warranty.
